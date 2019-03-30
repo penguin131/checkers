@@ -1,0 +1,10 @@
+C:\Users\zinin\Desktop\C#\WindowsFormsSolution1\WindowsFormsSolution1\bin\Debug\WindowsFormsSolution1.exe.config
+C:\Users\zinin\Desktop\C#\WindowsFormsSolution1\WindowsFormsSolution1\bin\Debug\WindowsFormsSolution1.exe
+C:\Users\zinin\Desktop\C#\WindowsFormsSolution1\WindowsFormsSolution1\bin\Debug\WindowsFormsSolution1.pdb
+C:\Users\zinin\Desktop\C#\WindowsFormsSolution1\WindowsFormsSolution1\obj\Debug\WindowsFormsSolution1.csprojResolveAssemblyReference.cache
+C:\Users\zinin\Desktop\C#\WindowsFormsSolution1\WindowsFormsSolution1\obj\Debug\WindowsFormsSolution1.Properties.Resources.resources
+C:\Users\zinin\Desktop\C#\WindowsFormsSolution1\WindowsFormsSolution1\obj\Debug\WindowsFormsSolution1.csproj.GenerateResource.cache
+C:\Users\zinin\Desktop\C#\WindowsFormsSolution1\WindowsFormsSolution1\obj\Debug\WindowsFormsSolution1.csproj.CoreCompileInputs.cache
+C:\Users\zinin\Desktop\C#\WindowsFormsSolution1\WindowsFormsSolution1\obj\Debug\WindowsFormsSolution1.exe
+C:\Users\zinin\Desktop\C#\WindowsFormsSolution1\WindowsFormsSolution1\obj\Debug\WindowsFormsSolution1.pdb
+C:\Users\zinin\Desktop\C#\WindowsFormsSolution1\WindowsFormsSolution1\obj\Debug\WindowsFormsSolution1.Checkers.resources
